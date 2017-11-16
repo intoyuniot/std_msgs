@@ -1,0 +1,56 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+UInt64MultiArray  KEYWORD1
+UInt64  KEYWORD1
+UInt32MultiArray  KEYWORD1
+UInt32  KEYWORD1
+UInt16MultiArray  KEYWORD1
+UInt16  KEYWORD1
+UInt8MultiArray  KEYWORD1
+UInt8  KEYWORD1
+Time  KEYWORD1
+String  KEYWORD1
+MultiArrayLayout  KEYWORD1
+MultiArrayDimension  KEYWORD1
+Int64MultiArray  KEYWORD1
+Int64  KEYWORD1
+Int32MultiArray  KEYWORD1
+Int32  KEYWORD1
+Int16MultiArray  KEYWORD1
+Int16  KEYWORD1
+Int8MultiArray  KEYWORD1
+Int8  KEYWORD1
+Header  KEYWORD1
+Float64MultiArray  KEYWORD1
+Float64  KEYWORD1
+Float32MultiArray  KEYWORD1
+Float32  KEYWORD1
+Empty  KEYWORD1
+Duration  KEYWORD1
+ColorRGBA  KEYWORD1
+Char  KEYWORD1
+ByteMultiArray  KEYWORD1
+Byte  KEYWORD1
+Bool  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+serialize  KEYWORD2
+deserialize  KEYWORD2
+getType  KEYWORD2
+getMD5  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

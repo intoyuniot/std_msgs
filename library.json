@@ -1,0 +1,28 @@
+{
+    "name": "std_msgs",
+    "version": "1.0.0",
+    "keywords": "std_msgs",
+    "description": "std是ros系统基本信息库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/std_msgs.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies":
+    [
+        {
+            "name": "ros",
+            "frameworks": "arduino"
+        },
+        {
+            "name": "std_msgs",
+            "frameworks": "arduino"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
